@@ -1,7 +1,5 @@
-public class TimesTable {
-    public static int[][] generateTimesTable(int first, int second) {
+public class Main {
 
-    }
     public static void main(String[] args) {
 	// write your code here
     }
