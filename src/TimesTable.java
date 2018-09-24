@@ -1,4 +1,10 @@
 public class TimesTable {
+    /** function that generates a multiplication table
+     *
+     * @param first
+     * @param second
+     * @return returns the table
+     */
     public static int[][] generateTimesTable(int first, int second) {
         if (first < 0 || second < 0) {
             return null;
